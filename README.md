@@ -1,7 +1,5 @@
-# getting_cleaning_data
-
 ==================================================================
-Getting and Cleaning Data Project
+# getting_cleaning_data
 Version 1.0
 ==================================================================
 Danny Tran
@@ -12,7 +10,8 @@ The project takes raw data from the following url: https://d396qusza40orc.cloudf
 
 A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-For more information about the project please go to following: http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
+For more information about the project please go to following:
+http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
 
 
 The repo/project includes the following files:
